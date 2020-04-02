@@ -23,18 +23,18 @@ export default {
       recommendList: [{
         id: '0001',
         imgUrl: 'http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg',
-        title: '上饶-庐山 3天跟团游',
-        desc: '醉美乡村世遗游+高档酒店+自由活动一天！'
+        title: '美丽普陀山',
+        desc: '人间仙境杭州，佛教圣地普陀山等你来玩！在这里静心接收佛家的洗礼，用心感受佛文化'
       }, {
         id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg',
-        title: '上饶-庐山 3天跟团游',
-        desc: '醉美乡村世遗游+高档酒店+自由活动一天！'
+        imgUrl: '//img1.qunarzz.com/sight/p0/201405/27/8211cadd5d9fefeaa044c5b7eefc695d.jpg_600x330_f8f2f38a.jpg',
+        title: '千岛湖',
+        desc: '世界上岛屿最多的湖'
       }, {
         id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg',
-        title: '上饶-庐山 3天跟团游',
-        desc: '醉美乡村世遗游+高档酒店+自由活动一天！'
+        imgUrl: '//img1.qunarzz.com/sight/p0/201405/29/0290f90b03596cdef35d73e753e635ee.jpg_600x330_36f804a2.jpg',
+        title: '京杭大运河',
+        desc: '里程最长的古运河'
       }]
     }
   }
@@ -63,5 +63,5 @@ export default {
       .item-desc
         ellipsis()
         line-height: .4rem
-        color: #ccc
+        color: #616161
 </style>
