@@ -17,6 +17,7 @@ export default {
     return {
       swiperOption: {
         pagination: '.swiper-pagination',
+        autoplay: 3000,
         loop: true
       },
       swiperList: [{
@@ -38,9 +39,8 @@ export default {
         background :#ff4500
     .wrapper
         width :100%
-        height:31.25vw
+        height:30.25vw
         background:#eee
         .swiper-img
             width: 100%
-
 </style>
