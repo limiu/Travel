@@ -2,7 +2,7 @@
     <div>
     <div class="title">热销推荐</div>
     <ul>
-        <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+        <li class="item border-bottom" v-for="item of list" :key="item.id">
             <img  class="item-img" :src="item.imgUrl">
           <div class="item-info">
             <p class="item-title">{{item.title}}</p>
@@ -17,25 +17,8 @@
 <script>
 export default {
   name: 'HomeRecommend',
-  data () {
-    return {
-      recommendList: [{
-        id: '0001',
-        imgUrl: '//imgs.qunarzz.com/vs_ceph_vs_tts/0db7e616-7a0a-4ef6-9e62-7b269c4cd6a1.jpg_r_480x320x95_54053dea.jpg',
-        title: '上饶-庐山 3天跟团游',
-        desc: '醉美乡村世遗游+高档酒店+自由活动一天！'
-      }, {
-        id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/b6/662fc49d1d26a5a7775cf6b7f8b4ecec.water.jpg_200x200_7dec115f.jpg',
-        title: '杭州野生动物园',
-        desc: '这样的乖乖小白虎你见过吗？'
-      }, {
-        id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/2002/4c/4cd185a080f0e397a3.water.jpg_200x200_c9f0a433.jpg',
-        title: '宋城千古情',
-        desc: '一生必看的演出'
-      }]
-    }
+  props: {
+    list: Array
   }
 }
 </script>
