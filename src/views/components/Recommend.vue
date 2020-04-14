@@ -58,7 +58,6 @@ export default {
         .item-button
           line-height: .44rem
           margin-top: .16rem
-          margin-left: 3.6rem
           background #00bcd4
           padding:0 .2rem
           border-radius: .06rem
