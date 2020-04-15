@@ -31,7 +31,7 @@ npm run serve
 ```
 ## 截图
 ### 1.首屏
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui6chmmdj30u01hcafu.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui6chmmdj30u01hcafu.jpg){:width="100px" height="100px" }
 
 ### 2.城市选择页面
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui7kbbxoj30u01hc0vh.jpg)
