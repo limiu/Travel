@@ -29,5 +29,6 @@ npm run serve
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
 ```
-## 部分截图
+## 截图
 
+![avatar]（http://q8tjm4cyf.bkt.clouddn.com/%E6%88%AA%E5%9B%BE.gif）
