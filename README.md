@@ -30,5 +30,17 @@ npm run serve
 
 ```
 ## 截图
+### 1.首屏
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui6chmmdj30u01hcafu.jpg)
 
-![avatar]（http://q8tjm4cyf.bkt.clouddn.com/%E6%88%AA%E5%9B%BE.gif）
+### 2.城市选择页面
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui7kbbxoj30u01hc0vh.jpg)
+
+### 3.详情页面
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui8agzhcj30u01hcwi7.jpg)
+
+### 4.画廊组件
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdui8mfjxvj30u01hcq7t.jpg)
+
+因为用的七牛免费空间，请点击后查看完整gif，就不放预览样式了：http://q8tjm4cyf.bkt.clouddn.com/%E6%88%AA%E5%9B%BE.gif
+
