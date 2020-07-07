@@ -1,4 +1,4 @@
-# vue cil 3 模仿去哪儿 移动端 web
+# vue cil 3 travel 移动端
 
 ## 技术栈和主要框架
 📦 Vue 全家桶：vue2.5 + vuex + vue-router + webpack
